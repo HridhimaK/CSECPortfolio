@@ -145,40 +145,38 @@ export const portfolioProjects = [
 
 export const resumeData = {
   professionalSummary: 
-    "Information Systems and Cybersecurity enthusiast with a strong foundation in security principles, risk management, and technical implementations. Passionate about protecting digital assets and implementing robust security measures. Equipped with hands-on experience in vulnerability assessments, incident handling, and security best practices from the Google Cybersecurity Professional Certificate program.",
+    "I am a junior Information Systems major at The University of Texas at Arlington with a strong interest in cybersecurity, especially in protecting systems through proactive threat detection and response. My experience in university IT support has strengthened my technical problem-solving skills and introduced me to real-world tools such as Wireshark, SQL, and Microsoft 365 environments. I have applied my analytical mindset to projects like an Employee Management System in Java and crime rate prediction using SQL and Python, helping me understand how technology and data can be used to enhance security and decision-making. I’m eager to apply my skills, certifications, and passion to help organizations strengthen their security posture and stay ahead of evolving risks.",
   
   education: [
     {
       degree: "Bachelor of Science in Information Systems",
       institution: "University of Texas at Arlington",
       location: "Arlington, TX",
-      dates: "2019 - 2023",
+      dates: "2022 - 2026",
     },
   ],
   
   workHistory: [
     {
-      title: "IT Support Intern",
-      company: "ABC Corporation",
-      location: "Dallas, TX",
-      dates: "May 2022 - August 2022",
+      title: "Student Administrative Support",
+      company: "Office of Information Technology (OIT) | The University of Texas at Arlington",
+      location: "Arlington, TX",
+      dates: "September 2024 - present",
       responsibilities: [
-        "Assisted with troubleshooting hardware and software issues across the organization",
-        "Helped implement security patches and updates for company systems",
-        "Documented technical procedures and created user guides",
-        "Participated in security awareness training for employees"
+        "Provided technical support for university software database systems, resolving 50+ support tickets monthly with a 98%+ resolution rate.",
+        "Enhanced troubleshooting efficiency by 30% through improved documentation, detailed FAQ creation, and proactive problem-solving.",
+        "Assisted end-users with software training, ensuring optimal utilization of IT resources and systems.",
       ]
     },
     {
-      title: "Student Research Assistant",
-      company: "University of Texas at Arlington",
+      title: "Sales Account Executive",
+      company: "UTA The Shorthorn ",
       location: "Arlington, TX",
-      dates: "January 2021 - May 2021",
+      dates: "February 2023 - May 2024",
       responsibilities: [
-        "Collected and analyzed data for departmental research on cybersecurity practices",
-        "Assisted in literature reviews and documentation",
-        "Helped organize and present findings to faculty and students",
-        "Collaborated with team members on research methodologies"
+        "Managed targeted email campaigns and client outreach initiatives, leading to a 30% increase in conversion rates.",
+        "Negotiated and closed 10+ contracts, driving 20% revenue growth in assigned territory.",
+        "Collaborated with 10+ cross-functional teams to identify new sales opportunities, increasing market reach.",
       ]
     }
   ],
@@ -190,6 +188,7 @@ export const resumeData = {
       "Linux Command Line",
       "SQL",
       "Python",
+      "Microsoft 365",
       "Incident Response",
       "Vulnerability Analysis",
       "Security Auditing"
@@ -220,14 +219,14 @@ export const resumeData = {
   ],
   
   organizations: [
-    "Women in Cybersecurity (WiCyS)",
-    "Information Systems Security Association (ISSA) - Student Member",
-    "Association for Computing Machinery (ACM)"
+    "Student member| ALPFA Student Organization ",
+    "Organizing Board Member | Bangladesh Student Organization | UTA ",
+    "Volunteer | BDRCS (Bangladesh Red Crescent Society)"
   ]
 };
 
 export const contactInfo = {
-  email: "hridhima.karmakar@example.com",
+  email: "hridhimakarmakar21@gmail.com",
   linkedin: "https://www.linkedin.com/in/hridhimakarmakar",
-  github: "https://github.com/hridhimakarmakar"
+  github: "https://github.com/HridhimaK"
 };
