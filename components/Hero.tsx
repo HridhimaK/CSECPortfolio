@@ -5,8 +5,7 @@ import { themeColors } from '@/lib/theme';
 import { ShieldCheck } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import Image from 'next/image';
-// <-- import your asset
- import profilePhoto from '/public/assets/profile.jpg';
+
 
 export default function Hero() {
   const [isVisible, setIsVisible] = useState(false);
@@ -89,11 +88,12 @@ export default function Hero() {
             isVisible && "animate-fadeIn delay-200"
           )}>
             <Image
-              src={profilePhoto}
+              src="/assets/profile.jpg"
               alt="Profile portrait of Hridhima Karmakar"
-              fill               // or you can use width={256} height={256}
+              fill         // or width/height if you prefer
               className="object-cover"
             />
+
           </div>
         </div>
       </div>
