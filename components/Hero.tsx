@@ -88,7 +88,7 @@ export default function Hero() {
             isVisible && "animate-fadeIn delay-200"
           )}>
             <Image
-              src="/public/assets/profile.jpg"
+              src="/assets/profile.JPG"
               alt="Profile portrait of Hridhima Karmakar"
               fill         // or width/height if you prefer
               className="object-cover"
